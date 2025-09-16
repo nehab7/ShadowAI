@@ -1,0 +1,27 @@
+Good morning everyone, let's get started with today's scrum. 
+First, can we have an update from the data cleansing team?
+
+Hello, from the data cleansing team. Yesterday we finished cleaning the duplicate records in the user database. 
+Today, we'll focus on handling null values in the transaction data. No blockers from our side.
+
+Thanks for that. Moving on, data generation team, your update please.
+
+Hi, from the data generation team. Yesterday we generated synthetic data for testing the new pipeline. 
+Today we'll continue expanding the dataset for edge cases. No issues as of now.
+
+Alright, great. Dev team, go ahead.
+
+Hello, from the dev team. Yesterday we completed the integration of the new API with the backend. 
+Today, we're working on fixing some bugs in the authentication module. Blocker is dependency on QA testing completion.
+
+Okay, understood. QA team, your turn.
+
+Hi, from the QA team. Yesterday we tested the new API endpoints and found a few failures in edge cases. 
+Today, we'll retest after fixes are pushed. Blocker is pending bug fix from the dev team.
+
+Noted. Prompt engineering team, please update.
+
+Hello, from the prompt engineering team. Yesterday we fine-tuned the prompts for better accuracy in chatbot responses. 
+Today, we're analyzing model outputs to reduce bias. No blockers currently.
+
+Perfect, thanks everyone for the updates. That wraps up today's scrum. Let's sync again tomorrow.
